@@ -1,4 +1,4 @@
-## Oiii eu sou a Mika 👨‍🚀
+## Oiii, eu sou a Mika 👨‍🚀
 Apaixonada por novos desafios, com disposição de descobrir e aprender todos os dias, em busca de combinar a arte do design com o desenvolvimento Front-end. Possuo espírito de trabalho em equipe, autonomia e uso a liberdade para opinar em processos e questões relacionadas ao cliente quando se faz necessário.
 
 Atualmente sou Software Engineer no time de experiência do Willbank, onde nosso principal foco é entregar uma excelente experiência aos nossos usuários. Pensamos e desenvolvemos produtos internos e externos definindo a aparência e o funcionamento da aplicação.
