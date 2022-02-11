@@ -3,7 +3,7 @@ Apaixonada por novos desafios, com disposição de descobrir e aprender todos os
 
 Atualmente sou Software Engineer no time de experiência do Willbank, onde nosso principal foco é entregar uma excelente experiência aos nossos usuários. Pensamos e desenvolvemos produtos internos e externos definindo a aparência e o funcionamento da aplicação.
 
-Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios e pronto para enfrentar mudanças.
+Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios e pronta para enfrentar mudanças.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
