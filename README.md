@@ -5,6 +5,16 @@ Minha carreira como Software Enginer se desenvolveu no cenário de um banco digi
 
 Atualmente, estou empregada em uma empresa de cibersegurança, onde atuo como Frontend Enginer e desempenho um papel de liderança no time. Minha responsabilidade principal envolve não só desenvolver features e propor soluções de frontend, mas também orientar, motivar e apoiar nossos membros na consecução de tarefas e cumprimento de prazos. Isso inclui a condução de cerimônias da Metodologia Ágil, como reuniões diárias, planejamento de sprints, retrospectivas, reuniões individuais e monitoramento das métricas. Assim como retirar impedimentos que vão desde código à regras de negócio.
 
+</div>
+  
+  ##
+ 
+<div> 
+    <a href="https://www.linkedin.com/in/michaeladafne" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+      <a href="https://api.whatsapp.com/send?phone=5527998670154" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:michaeladafne@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,12 +44,4 @@ Atualmente, estou empregada em uma empresa de cibersegurança, onde atuo como Fr
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp; <br>
 
 
-</div>
-  
-  ##
- 
-<div> 
-    <a href="https://www.linkedin.com/in/michaeladafne" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-      <a href="https://api.whatsapp.com/send?phone=5527998670154" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:michaeladafne@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+
