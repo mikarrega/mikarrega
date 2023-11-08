@@ -1,9 +1,9 @@
 ## Oi, eu sou a Mika 👨‍🚀
-Apaixonada por novos desafios, com disposição de descobrir e aprender todos os dias, em busca de combinar a arte do design com o desenvolvimento Front-end. Possuo espírito de trabalho em equipe, autonomia e uso a liberdade para opinar em processos e questões relacionadas ao cliente quando se faz necessário.
+Comprometida, possuo senso de responsabilidade e priorização. Busco sempre o entendimento do negócio da empresa para contribuir com minhas entregas e consequentemente atingir resultados. Sou uma Software Enginer que atuou durante 5 anos como Designer de Experiência do Usuário.
 
-Atualmente sou Software Engineer no time de experiência do Willbank, onde nosso principal foco é entregar uma excelente experiência aos nossos usuários. Pensamos e desenvolvemos produtos internos e externos definindo a aparência e o funcionamento da aplicação.
+Minha carreira como Software Enginer se desenvolveu no cenário de um banco digital, onde pude atuar com às tecnologias mais recentes do mercado(React, Nest, Jest, Docker, Terraform, AWS, Rancher, Sonar, New Relic). Meu foco era desenvolver produtos internos e externos que priorizavam a fidelidade aos protótipos, escalabilidade, desempenho de 10 ms de resposta, segurança de nível empresarial e mantendo uma cobertura de testes de 80% na aplicação. Fazendo uma entrega de ponta a ponta e atuando no contexto Full Cycle.
 
-Sou apaixonada por resolver problemas e aprender. Sempre aberta a novos desafios e pronta para enfrentar mudanças.
+Atualmente, estou empregada em uma empresa de cibersegurança, onde atuo como Frontend Enginer e desempenho um papel de liderança no time. Minha responsabilidade principal envolve não só desenvolver features e propor soluções de frontend, mas também orientar, motivar e apoiar nossos membros na consecução de tarefas e cumprimento de prazos. Isso inclui a condução de cerimônias da Metodologia Ágil, como reuniões diárias, planejamento de sprints, retrospectivas, reuniões individuais e monitoramento das métricas. Assim como retirar impedimentos que vão desde código à regras de negócio.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
