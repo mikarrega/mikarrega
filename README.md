@@ -1,9 +1,9 @@
 ## Oi, eu sou a Mika 👨‍🚀
-Comprometida, possuo senso de responsabilidade e priorização. Busco sempre o entendimento do negócio da empresa para contribuir com minhas entregas e consequentemente atingir resultados. Sou uma Software Enginer que atuou durante 5 anos como Designer de Experiência do Usuário.
+Comprometida, possuo senso de responsabilidade e priorização. Busco sempre o entendimento do negócio da empresa para contribuir com minhas entregas e consequentemente atingir resultados. Sou uma Desenvolvedora que atuou durante 5 anos como Designer de Experiência do Usuário.
 
 Minha carreira como Software Enginer se desenvolveu no cenário de um banco digital, onde pude atuar com às tecnologias mais recentes do mercado(React, Nest, Jest, Docker, Terraform, AWS, Rancher, Sonar, New Relic). Meu foco era desenvolver produtos internos e externos que priorizavam a fidelidade aos protótipos, escalabilidade, desempenho de 10 ms de resposta, segurança de nível empresarial e mantendo uma cobertura de testes de 80% na aplicação. Fazendo uma entrega de ponta a ponta e atuando no contexto Full Cycle.
 
-Atualmente, estou empregada em uma empresa de cibersegurança, onde atuo como Frontend Enginer e desempenho um papel de liderança no time. Minha responsabilidade principal envolve não só desenvolver features e propor soluções de frontend, mas também orientar, motivar e apoiar nossos membros na consecução de tarefas e cumprimento de prazos. Isso inclui a condução de cerimônias da Metodologia Ágil, como reuniões diárias, planejamento de sprints, retrospectivas, reuniões individuais e monitoramento das métricas. Assim como retirar impedimentos que vão desde código à regras de negócio.
+Atualmente faço parte de um dos maiores ecossistema de beleza, o Grupo Boticário. Contribuo para a otimização e expansão do e-commerce e marketplace da Beleza na Web como Frontend na squad de Catálogo. Sou responsável por desenvolver e manter features no backoffice, que oferece autonomia e experiência do usuário aos clientes externos (empresas que comercializam produtos no marketplace) e internos (time de curadoria de produtos do Grupo Boticário).
 
 
 
