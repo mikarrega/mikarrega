@@ -1,9 +1,9 @@
 ## Oi, eu sou a Mika 👨‍🚀
-Comprometida, possuo senso de responsabilidade e priorização. Busco sempre o entendimento do negócio da empresa para contribuir com minhas entregas e consequentemente atingir resultados. Sou uma Desenvolvedora que atuou durante 5 anos como Designer de Experiência do Usuário.
+Graduated in Advertising and post-graduated in UX Design, I started my tech career in 2021 as a Software Developer in the financial sector. 
 
-Minha carreira como Software Enginer se desenvolveu no cenário de um banco digital, onde pude atuar com às tecnologias mais recentes do mercado(React, Nest, Jest, Docker, Terraform, AWS, Rancher, Sonar, New Relic). Meu foco era desenvolver produtos internos e externos que priorizavam a fidelidade aos protótipos, escalabilidade, desempenho de 10 ms de resposta, segurança de nível empresarial e mantendo uma cobertura de testes de 80% na aplicação. Fazendo uma entrega de ponta a ponta e atuando no contexto Full Cycle.
+Today, I work as a Frontend Developer at Grupo Boticário, optimizing and expanding the e-commerce and marketplace of the Group's 13 brands using JavaScript, React, Next.js, Jest, and Angular. I've worked with Docker, Terraform, AWS, Rancher, Sonar, New Relic. 
 
-Atualmente faço parte de um dos maiores ecossistema de beleza, o Grupo Boticário. Contribuo para a otimização e expansão do e-commerce e marketplace da Beleza na Web como Frontend na squad de Catálogo. Sou responsável por desenvolver e manter features no backoffice, que oferece autonomia e experiência do usuário aos clientes externos (empresas que comercializam produtos no marketplace) e internos (time de curadoria de produtos do Grupo Boticário).
+Recently, I implemented a Generative AI solution that made product catalog management more efficient and agile. <a href="https://aws.amazon.com/pt/blogs/aws-brasil/veja-como-o-grupo-boticario-tem-enriquecido-as-fichas-de-produto-com-o-uso-de-ia-generativa/" target="_blank">Check the article about this project on the AWS blog</a>.
 
 
 
