@@ -1,4 +1,4 @@
-## Oi, eu sou a Mika 👨‍🚀
+## Hi, i'm Mika 👨‍🚀
 Graduated in Advertising and post-graduated in UX Design, I started my tech career in 2021 as a Software Developer in the financial sector. 
 
 Today, I work as a Frontend Developer at Grupo Boticário, optimizing and expanding the e-commerce and marketplace of the Group's 13 brands using JavaScript, React, Next.js, Jest, and Angular. I've worked with Docker, Terraform, AWS, Rancher, Sonar, New Relic. 
